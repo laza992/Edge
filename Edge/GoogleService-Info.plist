@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467391954631-j9la5f5v1a4d5573a1kh1pe97bhfp0qd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467391954631-j9la5f5v1a4d5573a1kh1pe97bhfp0qd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYkKbOjhtni8Id4p2xtQElEkBZP3hYQl4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467391954631</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lazar.Edge</string>
+	<key>PROJECT_ID</key>
+	<string>edge-a061d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>edge-a061d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467391954631:ios:a240e86f212bcdd5</string>
+	<key>DATABASE_URL</key>
+	<string>https://edge-a061d.firebaseio.com</string>
+</dict>
+</plist>
